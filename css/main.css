@@ -10,3 +10,34 @@ th, td {
   border-left: 1px solid #ccc;
   border-right: 1px solid #ccc;
 }
+
+.event {
+  border-radius: 8px;
+  border: 1px solid;
+  overflow: hidden;
+  word-wrap: break-word;
+}
+
+.gray {
+  background-color: #f2f2f2;
+  color: #333;
+  border-color: #333;
+}
+
+.blue {
+  background-color: #d2d6f0;
+  color: #38448e;
+  border-color: #1d38da;
+}
+
+.red {
+  background-color: #f2bcbc;
+  color: #991919;
+  border-color: #b92828;
+}
+
+.green {
+  background-color: #d1e0bf;
+  color: #51603f;
+  border-color: #6b7e54;
+}
