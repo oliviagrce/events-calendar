@@ -1,3 +1,12 @@
 html {
   font-family: Merriweather, serif;
 }
+
+table {
+  border: 1px solid #666;
+}
+
+th, td {
+  border-left: 1px solid #ccc;
+  border-right: 1px solid #ccc;
+}
